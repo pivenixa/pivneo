@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pivenixa
+- 👋 Hi, I’m @pivneo
 - 👀 I’m interested in coding,machine learning,data scientist
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new project etc.
